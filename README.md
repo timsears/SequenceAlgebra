@@ -1,5 +1,5 @@
 This is code from the paper
-"In Praise of Sequence (Co-)Algebra and its implementaion in Haskell" by K. Clenaghan. The code supplied by the paper'
+"In Praise of Sequence (Co-)Algebra and its implementation in Haskell" by K. Clenaghan. The code supplied by the paper'
 s author. This repo just organizes that code a bit and adds examples.
 
 ~~~~

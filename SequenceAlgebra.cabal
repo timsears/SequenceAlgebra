@@ -5,7 +5,7 @@ cabal-version:       2.2
 
 name:                SequenceAlgebra
 version:             0.1.0.0
-synopsis:            Examples from "In Praise of Sequence (Co-)Algebra and its implementaion in Haskell" by K. Clenaghan. Based on code supplied by the author.
+synopsis:            Examples from "In Praise of Sequence (Co-)Algebra and its implementation in Haskell" by K. Clenaghan. Based on code supplied by the author.
 -- description:
 -- bug-reports:
 license:             BSD-3-Clause
