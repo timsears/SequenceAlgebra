@@ -15,3 +15,4 @@ cabal new-repl examples
 
 to make try out the library.
 
+Examples are incomplete at the moment. Planning to add more.
