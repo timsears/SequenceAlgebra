@@ -4,7 +4,9 @@ in
 stdenv.mkDerivation {
   name = "SequenceAlgebra";
   buildInputs = [
-  (hp.ghcWithHoogle (p : [p.QuickCheck p.optparse-generic p.boltzmann-samplers] ) )
+  (hp.ghcWithHoogle (p : [
+                          #none yet
+                           ] ) )
     hp.cabal-install
   ];
   src = null;
